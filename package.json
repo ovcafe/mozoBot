@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Discord Community Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovcoffee/discordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovcoffee/discordBot/issues"
+  },
+  "homepage": "https://github.com/ovcoffee/discordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
